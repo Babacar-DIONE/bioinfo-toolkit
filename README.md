@@ -40,7 +40,7 @@ donc ils s'enchaînent avec des pipes Unix.
 ## Installation
 
 ```bash
-git clone https://github.com/<ton-user>/bioinfo-toolkit.git
+git clone https://github.com/Babacar-DIONE/bioinfo-toolkit.git
 cd bioinfo-toolkit
 bash install.sh        # rend les scripts exécutables + les ajoute au PATH
 ```
